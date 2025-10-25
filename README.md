@@ -1,6 +1,6 @@
 ### *“The Failure of Classical Calculus at High Precision: Emergence of Nonlinear Quantum Geometry and the LOGOS Calculator”*
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17443131.svg)](https://doi.org/10.5281/zenodo.17443131)
 ***
 
 ### Abstract
