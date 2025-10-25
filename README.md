@@ -146,4 +146,4 @@ A new class of **curvature-sensitive calculators** can reveal where precision co
 The **LOGOS Quantum Geometry Calculator**, now implemented with 10 core analysis modes, embodies this new physics paradigm: a computational bridge between mathematical truth and quantum geometry.
 
 
-
+software https://github.com/gatanegro/Quantum-Geometry/releases/tag/V1.0
